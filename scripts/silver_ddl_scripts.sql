@@ -1,18 +1,4 @@
-/*
-===============================================================================
-SILVER LAYER CREATION SCRIPT (MySQL)
-===============================================================================
-Purpose:
-    - Transform raw data (Bronze) → Clean data (Silver)
-    - Perform typecasting, validation, and basic cleaning
-    - Prepare data for Gold layer (analytics)
 
-Key Operations:
-    - Drop & recreate tables
-    - Convert datatypes (VARCHAR → INT / DATE)
-    - Handle invalid values → NULL
-===============================================================================
-*/
 
 
 
